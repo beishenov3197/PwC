@@ -20,13 +20,9 @@ Analyzing of HR department:
   - 41% of employees in Operations, HR has the smallest representation
   - Majority falls in the 30-50 years age range
 
-- **Tenure-Performance Relationship**: 
+- **Performance Relationship**: 
   - Best performance at 1-year and 8-year tenures
-  - Further analysis needed to understand performance drivers
-
-- **Departmental Performance Variability**: 
   - HR department has the highest performance ratings
-  - Explore departmental performance metrics for best practices
 
 - **Gender Disparity and Promotions**: 
   - More promotions among males
