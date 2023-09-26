@@ -10,8 +10,6 @@ Identified significant trends and patterns within HR data, revenue data, and cal
 
 Empowered PwC company with a user-friendly and visually appealing PowerBI dashboard, delivering actionable insights for effective decision-making across HR, revenue, and call center operations.
 
-![image](https://github.com/beishenov3197/PwC/assets/112967670/b59e2c52-10d9-4d55-a1ed-84c3311a9c35)
-
-![image](https://github.com/beishenov3197/PwC/assets/112967670/ae81beb7-6b58-4ffc-b0b8-1de2434824a1)
-
-![image](https://github.com/beishenov3197/PwC/assets/112967670/a7a71c6f-608a-415f-8efd-16a0ad4c9b77)
+![image](https://github.com/beishenov3197/PwC/assets/112967670/d2e0927b-96ca-4233-987b-cde1d75579a8)
+![image](https://github.com/beishenov3197/PwC/assets/112967670/f1375998-ce6f-4270-b88e-1b4cf93c573c)
+![image](https://github.com/beishenov3197/PwC/assets/112967670/b623b0fb-1c84-4284-aa08-9825cdff3e20)
