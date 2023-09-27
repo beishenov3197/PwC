@@ -58,9 +58,9 @@ Analyzing the Revenue and Customers:
 Analyzing the Call Center Operations:
 
 - **Ticket Management:**
-    - A total of 5,000 tickets were handled, with a 73% resolution rate.
-    - The average customer satisfaction rating is 3.40.
-    - The average speed of answer is 67 seconds, and the average talking duration per call is 3 minutes and 45 seconds.
+  - A total of 5,000 tickets were handled, with a 73% resolution rate.
+  - The average customer satisfaction rating is 3.40.
+  - The average speed of answer is 67 seconds, and the average talking duration per call is 3 minutes and 45 seconds.
 
 - **Topic Analysis:**
 
@@ -74,6 +74,6 @@ Analyzing the Call Center Operations:
 
 - **Top Performers:**
 
-    - Jim is the top performer based on resolved tickets, demonstrating his effectiveness in resolving customer issues.
-    - Becky excels in terms of average talking duration, indicating her ability to engage and assist customers effectively.
-    - Diane stands out for her quick response time, as indicated by the average speed of answer.
+  - Jim is the top performer based on resolved tickets, demonstrating his effectiveness in resolving customer issues.
+  - Becky excels in terms of average talking duration, indicating her ability to engage and assist customers effectively.
+  - Diane stands out for her quick response time, as indicated by the average speed of answer.
