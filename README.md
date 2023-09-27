@@ -40,4 +40,6 @@ Analyzing the Revenue and Customers:
 - **Service Preference and Churn**: Fiber optic internet service is the most preferred, but it also has the highest churn rate. Further examination is needed to understand the reasons behind this pattern.
 
 - **Customer Profile**: The customer base is evenly distributed by gender. The majority of clients are young people, and they tend to prefer paperless billing. Understanding this demographic can inform marketing and service delivery strategies.
+
+  
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/b623b0fb-1c84-4284-aa08-9825cdff3e20)
