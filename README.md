@@ -43,3 +43,27 @@ Analyzing the Revenue and Customers:
 
   
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/b623b0fb-1c84-4284-aa08-9825cdff3e20)
+
+Analyzing the Call Center Operations:
+
+- **Ticket Management:**
+
+- A total of 5,000 tickets were handled, with a 73% resolution rate.
+- The average customer satisfaction rating is 3.40.
+- The average speed of answer is 67 seconds, and the average talking duration per call is 3 minutes and 45 seconds.
+
+- **Topic Analysis:**
+
+Tickets are evenly distributed among topics, with the highest volume directed towards streaming-related issues.
+Admin support receives the largest number of tickets, indicating a significant support need in this area.
+Resolution rates among topics are consistent, and average call duration by topic is around 70%. Notably, the topic related to payments has the longest average talking duration.
+
+-**Unresolved Tickets:**
+
+Admin support also has the highest number of unresolved tickets, suggesting a potential need for improvement in this area.
+
+-**Top Performers:**
+
+Jim is the top performer based on resolved tickets, demonstrating his effectiveness in resolving customer issues.
+Becky excels in terms of average talking duration, indicating her ability to engage and assist customers effectively.
+Diane stands out for her quick response time, as indicated by the average speed of answer.
