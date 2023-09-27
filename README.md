@@ -38,19 +38,19 @@ Analyzing the Revenue and Customers:
   - Significant churn rate of 27%. 
 
 - **Revenue Analysis**:
-    - The total annual revenue is $16 million
-    - Average revenue per customer of $64.
-    - The highest revenue was generated during the fifth year.
+  - The total annual revenue is $16 million
+  - Average revenue per customer of $64.
+  - The highest revenue was generated during the fifth year.
 
 - **Service Preference and Churn**:
-    - Fiber optic internet service is the most preferred.
-    - It also has the highest churn rate.
+  - Fiber optic internet service is the most preferred.
+  - It also has the highest churn rate.
 
 - **Customer Profile**:
-    - The customer base is evenly distributed by gender.
-    - The majority of clients are young people.
-    - They tend to prefer paperless billing.
-    - Understanding this demographic can inform marketing and service delivery strategies.
+  - The customer base is evenly distributed by gender.
+  - The majority of clients are young people.
+  - They tend to prefer paperless billing.
+  - Understanding this demographic can inform marketing and service delivery strategies.
 
   
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/b623b0fb-1c84-4284-aa08-9825cdff3e20)
@@ -58,7 +58,6 @@ Analyzing the Revenue and Customers:
 Analyzing the Call Center Operations:
 
 - **Ticket Management:**
-
     - A total of 5,000 tickets were handled, with a 73% resolution rate.
     - The average customer satisfaction rating is 3.40.
     - The average speed of answer is 67 seconds, and the average talking duration per call is 3 minutes and 45 seconds.
