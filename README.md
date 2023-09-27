@@ -65,9 +65,9 @@ Analyzing the Call Center Operations:
 - **Topic Analysis:**
 
   - Tickets are evenly distributed among topics, with the highest volume directed towards streaming-related issues.
-    - Admin support receives the largest number of tickets, indicating a significant support need in this area.
-    - Resolution rates among topics are consistent, and average call duration by topic is around 70%.
-    - Notably, the topic related to payments has the longest average talking duration.
+  - Admin support receives the largest number of tickets, indicating a significant support need in this area.
+  - Resolution rates among topics are consistent, and average call duration by topic is around 70%.
+  - Notably, the topic related to payments has the longest average talking duration.
 
 - **Unresolved Tickets:**
     - Admin support also has the highest number of unresolved tickets, suggesting a potential need for improvement in this area.
