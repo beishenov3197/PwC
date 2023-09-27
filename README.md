@@ -30,4 +30,14 @@ Analyzing of HR department:
 
 
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/f1375998-ce6f-4270-b88e-1b4cf93c573c)
+
+Analyzing the Revenue and Customers:
+
+- **Customer Base**: The organization has a total of 7,043 customers, with a significant churn rate of 27%. 
+
+- **Revenue Analysis**: The total annual revenue is $16 million, with an average revenue per customer of $64. The highest revenue was generated during the fifth year.
+
+- **Service Preference and Churn**: Fiber optic internet service is the most preferred, but it also has the highest churn rate. Further examination is needed to understand the reasons behind this pattern.
+
+- **Customer Profile**: The customer base is evenly distributed by gender. The majority of clients are young people, and they tend to prefer paperless billing. Understanding this demographic can inform marketing and service delivery strategies.
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/b623b0fb-1c84-4284-aa08-9825cdff3e20)
