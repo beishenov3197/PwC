@@ -12,7 +12,7 @@
 
 
 
-**HR Department analysis**
+## HR Department analysis
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-**Revenue and Customers Analysis**
+## Revenue and Customers Analysis
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-**Call Center Operations Analysis**
+## Call Center Operations Analysis
 
 
 
