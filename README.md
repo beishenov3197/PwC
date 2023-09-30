@@ -1,6 +1,6 @@
 # PwC
 
-**Power Bi - Visualization**
+**Summarization**
 
 - Developed a comprehensive PowerBI dashboard for PwC company, enabling the reporting of HR analytics, revenue analysis, and call center operations.
 
