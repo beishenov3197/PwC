@@ -10,9 +10,13 @@
 
 - Empowered PwC company with a user-friendly and visually appealing PowerBI dashboard, delivering actionable insights for effective decision-making across HR, revenue, and call center operations.
 
+
+**HR Department analysis**
+
+
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/d2e0927b-96ca-4233-987b-cde1d75579a8)
 
-Analyzing of HR department:
+
 
 - **Workforce Composition**: 
   - 500 employees
@@ -29,9 +33,12 @@ Analyzing of HR department:
   - Gender majority in all departments except Operations
 
 
+**Revenue and Customers Analysis**
+
+
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/f1375998-ce6f-4270-b88e-1b4cf93c573c)
 
-Analyzing the Revenue and Customers:
+
 
 - **Customer Base**:
   - The organization has a total of 7,043 customers
@@ -52,10 +59,13 @@ Analyzing the Revenue and Customers:
   - They tend to prefer paperless billing.
   - Understanding this demographic can inform marketing and service delivery strategies.
 
-  
+
+**Call Center Operations Analysis**
+
+
 ![image](https://github.com/beishenov3197/PwC/assets/112967670/b623b0fb-1c84-4284-aa08-9825cdff3e20)
 
-Analyzing the Call Center Operations:
+
 
 - **Ticket Management:**
   - A total of 5,000 tickets were handled, with a 73% resolution rate.
